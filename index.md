@@ -6,12 +6,12 @@ To help .NET developers tackle the DM issues, we empirically studied a set of re
 
 ## Empirical Study Dataset (RQ1-2)
 
- <a href="https://github.com/nufix-dependency-maze/nufix/blob/gh-pages/Empirical%20study%20dataset.xlsx?raw=true">![Octocat](https://raw.githubusercontent.com/nufix-dependency-maze/nufix/gh-pages/assets/images/download_small_2.png)  Empirical Study Dataset.xlsx</a>
+ <a href="https://github.com/nufix-dependency-maze/nufix/blob/gh-pages/Empirical%20study%20dataset.xlsx?raw=true">![Octocat](https://raw.githubusercontent.com/nufix-dependency-maze/nufix/gh-pages/download_small_03.png)  Empirical Study Dataset.xlsx</a>
 
 ## Benchmark (RQ3)
 
- <a href="https://github.com/nufix-dependency-maze/nufix/blob/gh-pages/Benchmark.zip?raw=true">![Octocat](https://raw.githubusercontent.com/nufix-dependency-maze/nufix/gh-pages/assets/images/download_small_2.png)  Benchmark.zip</a>
+ <a href="https://github.com/nufix-dependency-maze/nufix/blob/gh-pages/Benchmark.zip?raw=true">![Octocat](https://raw.githubusercontent.com/nufix-dependency-maze/nufix/gh-pages/download_small_03.png)  Benchmark.zip</a>
 
 ## Expert Validation (RQ4)
 
-<a href="https://github.com/nufix-dependency-maze/nufix/blob/gh-pages/Expert%20Feedback.zip?raw=true">![Octocat](https://raw.githubusercontent.com/nufix-dependency-maze/nufix/gh-pages/assets/images/download_small_2.png)  Expert Feedback.zip</a>
+<a href="https://github.com/nufix-dependency-maze/nufix/blob/gh-pages/Expert%20Feedback.zip?raw=true">![Octocat](https://raw.githubusercontent.com/nufix-dependency-maze/nufix/gh-pages/download_small_03.png)  Expert Feedback.zip</a>
