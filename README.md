@@ -7,7 +7,7 @@
 # Project description
 NuFix is Visual Studio plugin, which helps .NET developers automatically repair **D**ependency **M**aze (DM) issues (i.e., conflicting constraints on package or target platform versions such as NU1107, NU1202, etc).
 
-Its main features are: 1) building on top of a comprehensive study of developers’ preferences in fixing DM issues (e.g., installing fewer packages, inducing fewer risky build warnings); 2) seeking for the global optimal fixing solution based on a linear optimization model; 3) allowing developers to customize and iteratively refine the search scope of package versions based on their requirements; 4) visualizing dependency graph after adopting the derived fixes. A video demo is available at: https://youtu.be/8NECIM0wjhw 
+Its main features are: 1) building on top of a comprehensive study of developers’ preferences in fixing DM issues (e.g., installing fewer packages, inducing fewer risky build warnings); 2) seeking for the global optimal fixing solution based on a linear optimization model; 3) allowing developers to customize and iteratively refine the search scope of package versions based on their requirements; 4) visualizing dependency graph after adopting the derived fixes. A video demo is available at: https://youtu.be/52N4IPuOnxA 
 
 ![An overview of NuFix](https://github.com/nufix-dependency-maze/nufix/blob/master/readme.png)
 
