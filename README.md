@@ -1,6 +1,9 @@
 
-NuFix: Escape from NuGet Dependency Hell 
-http://www.nufix-dependency-maze.com/
+<div align="center"><img src="https://github.com/nufix-dependency-maze/nufix/blob/master/nufix.png" width="500px" /></div>
+
+<div align="center">NuFix: Escape from NuGet Dependency Hell</div> 
+<div align="center">http://www.nufix-dependency-maze.com/</div> 
+
 # Project description
 NuFix is Visual Studio plugin, which helps .NET developers automatically repair **D**ependency **M**aze (DM) issues (i.e., conflicting constraints on package or target platform versions such as NU1107, NU1202, etc).
 
@@ -8,7 +11,7 @@ Its main features are: 1) building on top of a comprehensive study of developers
 
 ![An overview of NuFix](https://github.com/nufix-dependency-maze/nufix/blob/master/readme.png)
 
-<center>Figure 1.  An overview of NuFix</center> 
+<div align="center">Figure 1.  An overview of NuFix</div>  
 
 # Background
 With the rapid evolution of the .NET ecosystem, managing dependencies in .NET projects becomes a critical challenge. Due to the fragmentation of .NET ecosystem, developers often suffer from DM issues when updating a project’s platform or dependency versions. DM issues are serious, since they can block the package installations, causing build errors. 
